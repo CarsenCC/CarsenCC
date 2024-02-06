@@ -2,7 +2,7 @@
 
 **`WebDevelopment and Software Engineer`**
 
-Hello, I am a college student currently studying for Software Engineering Web Development.
+Hello, I am a college student currently studying for Software Engineering, and Web Development.
 I love to play games, make funny stuff, and most importantly I love ferrets.
 
 ---
