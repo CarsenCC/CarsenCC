@@ -2,7 +2,7 @@
 
 **`WebDevelopment and Software Engineer`**
 
-Hello, I am a college student currently studying for Software Engineering, and Web Development.
+Hello, I am a Freelance Developer currently studying for Software Engineering, and Web Development.
 Sometimes I post my projects on here for open source use.
 Down below you can see some of the languages and tools I use.
 
